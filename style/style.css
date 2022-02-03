@@ -1,0 +1,32 @@
+header {
+    
+}
+
+body {
+    font-family: gill sans;
+    text-align: center;
+}
+
+.title {
+    font-weight: bold;
+    margin: 0;
+}
+
+.recipe-desc {
+    font-style: italic;
+    font-size: 14px;
+    font-weight: normal;
+}
+
+.recipe-item {
+    padding: .5em;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+a:hover {
+    color: red;
+}
+
